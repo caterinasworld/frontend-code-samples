@@ -12,13 +12,8 @@
   height: 80px;
 }
 
-.main,
-.nav {
-  height: 400px;
-}
-
 .aside {
-  height: 200px;
+  height: 320px;
 }
 
 .row {
@@ -29,5 +24,4 @@
   list-style-type: none;
   padding: 0;
   margin: 0;
-  margin-left: 10px; /* move to Bootstrap class */
 }
