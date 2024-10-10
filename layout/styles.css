@@ -1,0 +1,33 @@
+.header,
+.footer,
+.main,
+.nav,
+.aside {
+  background-color: #f9f9c1;
+  border: 1px dotted #dc5151;
+}
+
+.header,
+.footer {
+  height: 80px;
+}
+
+.main,
+.nav {
+  height: 400px;
+}
+
+.aside {
+  height: 200px;
+}
+
+.row {
+  margin-bottom: 10px;
+}
+
+.nav-list {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  margin-left: 10px; /* move to Bootstrap class */
+}
